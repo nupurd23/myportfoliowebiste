@@ -1,0 +1,50 @@
+
+*{
+    overflow-x: hidden;
+    background-color: gainsboro;
+    /* background-image: url('https://media.istockphoto.com/id/1045681574/photo/top-view-of-a-wood-or-plywood-for-backdrop.jpg?s=612x612&w=0&k=20&c=LwpfG7C6VpndgJUkkYI0PiEBgMAgn7nVXl_Lg46-Sbs='); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    background-color: gainsboro;
+    font-size: 4rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   color: rgb(56, 30, 30);
+   /* border: 0.2rem solid gray ; */
+   /* border-radius: 13rem; */
+   /* background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60'); */
+}
+
+img{
+    margin-left: 2.3rem;
+   border-radius: 0.3rem;
+   
+}
+h3{
+   margin-left: 2rem;
+   /* text-align: center; */
+    color: rgb(86, 76, 76);
+    width: 40rem;
+    font-size: 2rem;
+    border-radius: 13rem;
+    background-color: gainsboro;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60'); */
+}
+.calculator{
+    margin-right: 1.5rem;
+    background-color: rgb(167, 167, 167);
+    border: 0.2rem solid black;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+}
+
+.images{
+    background-color: rgb(167, 167, 167);
+    border: 0.2rem solid black;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+}
