@@ -124,6 +124,8 @@ nav ul {
     font-size: 0.938rem;
     width: 9.375rem;
     border: 0rem;
+    text-decoration: none;
+   
 }
 #hireme:hover{
     background-color: rgb(144, 167, 127);
