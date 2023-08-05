@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: rgb(124, 142, 7);
+    color: palevioletred;
     font-weight: bolder;
 }
 
@@ -82,6 +82,17 @@ nav ul {
 #para{
     font-size: 2.188rem;
     margin-left: 6.25rem;
+    /* white-space: nowrap;  */
+    /* animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite; */
+    word-break: break-all;
+    height: 1.2em;
+    width:0%;
+    overflow: hidden;
+    animation:t 2s linear infinite alternate;
+  /* font-family: monospace; */
+  /* font-size: 2em; */
 }
 .biophoto{
     background-image: url('https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGdpcmwlMjB3b3JraW5nJTIwb24lMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60');
@@ -291,6 +302,39 @@ h4{
     margin-left: 12.5rem;
 }
 
+.certificate img{
+  padding-left: 2.5rem;
+  padding-top: 2.5rem;
+}
+#certifyhead{
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 1.875rem;
+    font-size: 2.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media(max-width:576px){
     html{
         font-size:25% ;
@@ -325,3 +369,9 @@ h4{
         font-size: 45%;
     }
 }
+
+  @keyframes t{
+    90%,100% {width:100%}
+  }
+  
+ 

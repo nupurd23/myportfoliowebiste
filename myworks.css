@@ -1,7 +1,7 @@
 
 *{
     overflow-x: hidden;
-    background-color: gainsboro;
+    /* background-color: gainsboro; */
     /* background-image: url('https://media.istockphoto.com/id/1045681574/photo/top-view-of-a-wood-or-plywood-for-backdrop.jpg?s=612x612&w=0&k=20&c=LwpfG7C6VpndgJUkkYI0PiEBgMAgn7nVXl_Lg46-Sbs='); */
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,15 +36,15 @@ h3{
 }
 .calculator{
     margin-right: 1.5rem;
-    background-color: rgb(167, 167, 167);
-    border: 0.2rem solid black;
+    /* background-color: rgb(167, 167, 167); */
+    /* border: 0.2rem solid black; */
     margin-bottom: 3rem;
     padding-bottom: 2rem;
 }
 
 .images{
-    background-color: rgb(167, 167, 167);
-    border: 0.2rem solid black;
+    /* background-color: rgb(167, 167, 167); */
+    /* border: 0.2rem solid black; */
     margin-bottom: 3rem;
     padding-bottom: 2rem;
 }
