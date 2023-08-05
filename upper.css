@@ -264,12 +264,14 @@ input{
     border-color: plum;
 
 }
-textarea{
-    width: 22.5rem;
-    height: 6.25rem;
-    padding-top: 0%;
+#textarea{
+    width: 35rem;
+    /* height: 6.25rem; */
+    padding-top: 0rem;
     padding-bottom: 2.5rem;
     border-color: plum;
+    justify-content: center;
+    /* text-align: center; */
     /* padding-top: 0%; */
 }
 .formbtn{
